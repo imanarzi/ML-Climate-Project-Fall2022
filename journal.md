@@ -9,3 +9,5 @@
 <li> Show the presence and strength of the wildfire and climate change positive feedback loop.  Wildfires contribute to carbon dioxide emissions which lead to high temperatures, which makes land prone to more wildfires. </li>
 </ol>
 Data: https://www.kaggle.com/datasets/4735dcf84228370db9a551c153b520cc6d9166aaeadffaf6205745c31c3585ae or https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires (the original larger dataset that this data is from)
+<br>
+10/7 - load data into a jupyter notebook and perform some data analysis. it apeears that the number of wildfires per year is not necessarily increasing, as well as the number of natual-wildfires. Will research some of the causes listed as 'miscellaneous' since these could also be natural (such as from a volcano). Also will begin to look into relevant literature.
