@@ -11,3 +11,5 @@
 Data: https://www.kaggle.com/datasets/4735dcf84228370db9a551c153b520cc6d9166aaeadffaf6205745c31c3585ae or https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires (the original larger dataset that this data is from)
 <br>
 10/7 - load data into a jupyter notebook and perform some data analysis. it apeears that the number of wildfires per year is not necessarily increasing, as well as the number of natual-wildfires. Will research some of the causes listed as 'miscellaneous' since these could also be natural (such as from a volcano). Also will begin to look into relevant literature.
+<br>
+10/14 - after looking at relevant literature, thinking of using regression to estimate area burned from a wildfire. will use the kaggle dataset in conjunction with the weather data set. did analysis to show that the area burned from wildfires has increased over time. did a simple linear regression with year, latitude, and longitude as the features. can also use a decision tree to determine which "category" the fire falls into (based on the area burnt).
