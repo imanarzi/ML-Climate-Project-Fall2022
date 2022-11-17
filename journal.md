@@ -15,4 +15,7 @@ Data: https://www.kaggle.com/datasets/4735dcf84228370db9a551c153b520cc6d9166aaea
 10/14 - after looking at relevant literature, thinking of using regression to estimate area burned from a wildfire. will use the kaggle dataset in conjunction with the weather data set. did analysis to show that the area burned from wildfires has increased over time. did a simple linear regression with year, latitude, and longitude as the features. can also use a decision tree to determine which "category" the fire falls into (based on the area burnt).
 <br>
 10/21 - pivoting to study drought patterns with k-means and GMM clustering algorithms
-10/29 - completed abstract and literature review
+10/29 - completed abstract and literature review, researching different algorithms and data
+11/4 - import data and preprocessing, learning about best data format (went with PENTAD spi), begin writing methods section and researching different clustering algorithms
+11/16 - ran k means and visualization, x-means and visualization, PCA. having issue with x=means
+11/23 - will be running g-means and PCA w/ visualization (1 map per component)
