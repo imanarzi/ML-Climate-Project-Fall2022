@@ -25,5 +25,7 @@ Data: https://www.kaggle.com/datasets/4735dcf84228370db9a551c153b520cc6d9166aaea
 11/23 - ran g-means and PCA w/ visualization (3 components, 1 map per component). ran and discovered that g-means results in 700+ clusters, so i increased clusters max for x-means to much higher. x means converges at ~130 clusters. also filtered data by rainy season.
 <br>
 12/1 - evaluating results by seeing how much variation is explained by PCA
+<br>
 12/8 - writing final paper methods and conclusion, ran final analysis of g-means and x-means vs. PCA as well as k vs. error
+<br>
 12/15 - wrote discussion section, polish final paper and code cleanup
